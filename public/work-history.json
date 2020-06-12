@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Software Intern",
+        "company": "Area 10 Labs",
+        "location": "Rochester, MN",
+        "start_date": "October 2017",
+        "end_date": "May 2018",
+        "description": "At Area10, I had initially started work on implementing software for VR as well as work with CAD programs and 3D printing. However, as time progressed, I migrated to web development with NodeJS and PHP. "
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Guns.com",
+        "location": "Burnsville, MN",
+        "start_date": "June 2018",
+        "end_date": "February 2019",
+        "description": "I was responsible for managing and integrating point of sale systems such as NCRCounterpoint and Bravo into a Laravel and Magento based ecommerce platform. The primary technologies I worked with were, Laravel, Magento, Symfony and Azure. "
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Nerdery",
+        "location": "Bloomington, MN",
+        "start_date": "October 2019",
+        "end_date": "Today",
+        "description": "I, along with other developers, am responsible for developing and servicing our client Purina. I work with Drupal to consistently deliver stakeholder requirements. Prior to Purina, I worked on the project team servicing Petfinder, where I used Symfony on a daily basis to develop for their public API. "
+    },
+    {
+        "title": "Founder & Teacher",
+        "company": "Icodestuff",
+        "location": "Rochester, MN",
+        "start_date": "May 2018",
+        "end_date": "Today",
+        "description": "I am responsible for delivering screencast tutorials to Youtube on a variety of developer topics. I have more than 15 videos teaching Laravel, ExpressJS, and React topics. The channel currently has approximately 30,000 total views. "
+    },
+    {
+        "title": "Software Intern",
+        "company": "Area 10 Labs",
+        "location": "Rochester, MN",
+        "start_date": "October 2017",
+        "end_date": "May 2018",
+        "description": "Gigwerk, formerly known as FAVR, started as a two sided marketplace where customers could request to have chores by a high school/college aged worker. However, we transitioned to a B2B SAAS company that essentially bridges businesses looking to employ gig workers, as well as for gig workers looking for temporary work opportunities (gigs). \n\nAs a founder and developer I actively develop and manage applications for the business. This includes the following: \nMobile app for iOS, Android and PWA developed with Ionic Native & Angular\nREST API for the mobile app developed with Laravel/Lumen. \nA dashboard to manage business accounts developed with Angular & Tailwind \nDevOps with AWS EC2, S3 and Cloudfront\n"
+    }
+]
